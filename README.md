@@ -2,15 +2,6 @@
 
 Welcome to **LetterQuest**! This is a simple yet engaging Hangman game implemented in Python. Test your word-guessing skills and see how many attempts it takes to discover the hidden word!
 
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [How to Play](#how-to-play)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Features
 
