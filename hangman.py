@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jul 31 15:01:28 2024
-
-@author: Shivam Raj
-"""
-
 import random
 from words import words
 from hangman_visual import lives_visual_dict
